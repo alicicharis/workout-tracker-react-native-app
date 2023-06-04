@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "workout-tracker-react-native-app",
+    "slug": "workout-tracker-react-native-app"
+  }
+}
