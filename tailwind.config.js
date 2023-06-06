@@ -9,6 +9,7 @@ module.exports = {
     extend: {
       colors: {
         primaryColor: "rgb(109, 99, 255)",
+        overlayColor: "rgba(0, 0, 0, 0.5)",
       },
     },
   },
